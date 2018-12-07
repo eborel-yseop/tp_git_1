@@ -1,0 +1,31 @@
+= tp_git_1
+
+== 101 git practice @Yseop
+
+For our first excerise we will cover the basics: 
+
+- Checking out a existing branch
+- Creating a new branch
+- Adding new files to the index
+- Commiting those files
+- Push the changes to the distant branch
+
+== Exercise
+
+First, clone this repository on your machine.
+
+Once it's done, check that you are in the `master` branch.
+
+Then, change your local branch to `develop` from the remote branch `origin/develop`.
+
+From here, you will create a new branch called `test_{your_login}`. For example: `test_eborel`.
+
+Depending on how you created your branch, you may or may not have it as your working branch. +
+Check that, and if not, fix it :)
+
+Now, create a file named `hello.txt` in your workspace. You can leave it empty, or write an essay about your love for git, your choice.
+
+Commit this file to your index, and then push your modification.
+
+All done! You can now verify (either directly on github or through the UI of your choice)  that your branch exists remotely, +
+and that your file `hello.txt` is present.
