@@ -2,13 +2,15 @@
 
 == 101 git practice @Yseop
 
-For our first excerise we will cover the basics: 
+For our first exercise we will cover the basics: 
 
 - Checking out a existing branch
 - Creating a new branch
 - Adding new files to the index
 - Commiting those files
 - Push the changes to the distant branch
+
+This exercise is based on https://eborel-yseop.github.io/git-guide/[Yseop git-guide].
 
 == Exercise
 
@@ -29,3 +31,5 @@ Commit this file to your index, and then push your modification.
 
 All done! You can now verify (either directly on github or through the UI of your choice)  that your branch exists remotely, +
 and that your file `hello.txt` is present.
+
+You are now ready to create a https://help.github.com/articles/about-pull-requests/[Pull Request]!
